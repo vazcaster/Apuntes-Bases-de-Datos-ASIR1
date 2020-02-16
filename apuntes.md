@@ -2,7 +2,7 @@
 
 ### SQL ###
 
-SQL (`Structure Query Language`) es un lenguaje declarativo. Este tipo de lenguaje se basa en las matemáticas y en la lógica de un lenguaje imperativo. Un lenguaje declarativo no dice cómo hacer una cosa sino que cosa hacer.
+SL (`Structure Query Language`) es un lenguaje declarativo. Este tipo de lenguaje se basa en las matemáticas y en la lógica de un lenguaje imperativo. Un lenguaje declarativo no dice cómo hacer una cosa sino que cosa hacer.
 
 En SQL existen varios sublenguajes pero para estos apuntes nos centraremos en DML (`Data Manipulation Language`) que sirve para llevar a cabo las tareas de consulta o manipulación de los datos, organizados por el modelo de datos adecuado.
 Dentro de cada sublenguaje existen sentencias que nos servirán para dar una orden específica. En estos apuntes veremos las siguientes sentencias:
